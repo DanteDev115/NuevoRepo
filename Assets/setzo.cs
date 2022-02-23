@@ -7,7 +7,7 @@ public class setzo : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+	Debug.Log("dasd");
     }
 
     // Update is called once per frame
